@@ -1,2 +1,3 @@
-# flask-todo-project
-My Flask To-Do List Project
+## Project Screenshot
+
+![Flask ToDo App](screenshot.png)
